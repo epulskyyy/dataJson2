@@ -1,0 +1,204 @@
+{
+  "1month": {
+    "totalSalesVolume": 17500000,
+    "fundTransferInternal": 600000000,
+    "fundTransferExternal": 300000000,
+    "directDebit": 300000000,
+    "briva": 300000,
+    "topUpBrizzi": 300000,
+    "dataSales": {
+      "tanggal": "2020-04-23T05:00:17.000Z",
+      "endpoint": "",
+      "total": 17500000,
+      "status": "SUCCESS"
+    },
+    "totalInvoice": 50000000,
+    "totalSaldo": 100000000,
+    "totalMutasi": 300000000,
+    "totalLokasiKanto": 300000000,
+    "totalValas": 300000000,
+    "dataInvoice": {
+      "tanggal": "2020-04-23T05:00:17.000Z",
+      "endpoint": "",
+      "total": 17500000,
+      "status": "SUCCESS"
+    }
+  },
+  "LastMonth": {
+    "totalSalesVolume": 87500000,
+    "fundTransferInternal": 800000000,
+    "fundTransferExternal": 400000000,
+    "directDebit": 500000000,
+    "briva": 500000,
+    "topUpBrizzi": 500000,
+    "dataSales": [
+      {
+        "tanggal": "2020-03-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 17500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-04-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 75000000,
+        "status": "SUCCESS"
+      }
+    ],
+    "totalInvoice": 60000000,
+    "totalSaldo": 200000000,
+    "totalMutasi": 400000000,
+    "totalLokasiKanto": 400000000,
+    "totalValas": 400000000,
+    "dataInvoice": [
+      {
+        "tanggal": "2020-03-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 17500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-04-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 57500000,
+        "status": "SUCCESS"
+      }
+    ]
+  },
+  "Last3Month": {
+    "totalSalesVolume": 97500000,
+    "fundTransferInternal": 900000000,
+    "fundTransferExternal": 600000000,
+    "directDebit": 700000000,
+    "briva": 700000,
+    "topUpBrizzi": 700000,
+    "dataSales": [
+      {
+        "tanggal": "2020-03-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 17500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-04-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 75000000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-05-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 55000000,
+        "status": "SUCCESS"
+      }
+    ],
+    "totalInvoice": 70000000,
+    "totalSaldo": 300000000,
+    "totalMutasi": 500000000,
+    "totalLokasiKanto": 500000000,
+    "totalValas": 600000000,
+    "dataInvoice": [
+      {
+        "tanggal": "2020-03-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 17500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-04-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 57500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-05-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 67500000,
+        "status": "SUCCESS"
+      }
+    ]
+  },
+  "Last6Month": {
+    "totalSalesVolume": 107500000,
+    "fundTransferInternal": 999000000,
+    "fundTransferExternal": 800000000,
+    "directDebit": 900000000,
+    "briva": 1000000,
+    "topUpBrizzi": 1000000,
+    "dataSales": [
+      {
+        "tanggal": "2020-03-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 17500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-04-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 75000000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-05-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 55000000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-05-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 67500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-06-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 27500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-07-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 77500000,
+        "status": "SUCCESS"
+      }
+    ],
+    "totalInvoice": 90000000,
+    "totalSaldo": 500000000,
+    "totalMutasi": 700000000,
+    "totalLokasiKanto": 700000000,
+    "totalValas": 800000000,
+    "dataInvoice": [
+      {
+        "tanggal": "2020-03-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 17500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-04-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 57500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-05-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 67500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-06-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 27500000,
+        "status": "SUCCESS"
+      },
+      {
+        "tanggal": "2020-07-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 77500000,
+        "status": "SUCCESS"
+      }
+    ]
+  }
+}
