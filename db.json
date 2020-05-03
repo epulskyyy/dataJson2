@@ -6,23 +6,27 @@
     "directDebit": 300000000,
     "briva": 300000,
     "topUpBrizzi": 300000,
-    "dataSales": [{
-      "tanggal": "2020-04-23T05:00:17.000Z",
-      "endpoint": "",
-      "total": 17500000,
-      "status": "SUCCESS"
-    }],
+    "dataSales": [
+      {
+        "tanggal": "2020-04-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 17500000,
+        "status": "SUCCESS"
+      }
+    ],
     "totalInvoice": 50000000,
     "totalSaldo": 100000000,
     "totalMutasi": 300000000,
     "totalLokasiKanto": 300000000,
     "totalValas": 300000000,
-    "dataInvoice": [{
-      "tanggal": "2020-04-23T05:00:17.000Z",
-      "endpoint": "",
-      "total": 17500000,
-      "status": "SUCCESS"
-    }]
+    "dataInvoice": [
+      {
+        "tanggal": "2020-04-23T05:00:17.000Z",
+        "endpoint": "",
+        "total": 17500000,
+        "status": "SUCCESS"
+      }
+    ]
   },
   "LastMonth": {
     "totalSalesVolume": 87500000,
