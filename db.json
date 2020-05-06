@@ -1,4 +1,13 @@
 {
+  "statusRate":{
+    "status": "OK",
+    "description": "Successfully",
+    "count": 1,
+    "data": {
+        "total_hit_success": 2,
+        "presentase": 50
+      }
+  },
   "1month": {
     "totalSalesVolume": 17500000,
     "fundTransferInternal": 600000000,
